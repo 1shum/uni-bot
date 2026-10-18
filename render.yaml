@@ -1,5 +1,5 @@
 services:
-  - type: worker
+  - type: web
     name: uni-schedule-bot
     env: python
     region: frankfurt
